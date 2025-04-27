@@ -6,8 +6,8 @@ package practica_campo;
 
 /**
  *
- * @author chris
+ * @author renzo
  */
-class EquipoInformatico {
+public class Proveedor {
     
 }
