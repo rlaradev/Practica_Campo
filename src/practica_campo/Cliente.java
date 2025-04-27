@@ -12,6 +12,7 @@ public class Cliente {
     //Persona puede ser propietario de 0 a muchos equipos informaticos
     private ArrayList<EquipoInformatico> propietario = new ArrayList();
     
+
     
     public void encender_televisor() {
         System.out.println("TV encendida");
